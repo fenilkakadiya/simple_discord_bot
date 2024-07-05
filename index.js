@@ -80,5 +80,5 @@ client.on("interactionCreate", async (interaction) => {
 });
 
 client.login(
-  "MTI1Nzk3NzYzNjk3NDYyODg3NQ.Gm8UGD.vXQY93CivpdLKhfzZ2pavWO4uEPdr3MvLox9cg"
+  "enter your token"
 );
